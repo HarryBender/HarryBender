@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="header.gif" width="600">
-</p>
+
 
 <p align="center">
   ·
@@ -8,4 +6,7 @@
   ·
   <a href="https://t.me/hudfuck">Text me</a>
   ·
+</p>
+<p align="center">
+  <img src="header.gif" width="400">
 </p>
